@@ -1,0 +1,6 @@
+[submodule "slaiteio-web-platform"]
+	path = slaiteio-web-platform
+	url = https://github.com/ivanosky144/slaiteio-web-platform.git
+[submodule "slaiteio-api-service"]
+	path = slaiteio-api-service
+	url = https://github.com/ivanosky144/slaiteio-api-service.git
