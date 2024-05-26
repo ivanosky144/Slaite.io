@@ -8,4 +8,4 @@ Diagram-diagram yang digunakan pada Slaite.io adalah ERD dan Use Case Diagram
 
 ## Use Case Diagram
 
-![UCD](./Diagrams.md/UseCase.jpg)
+![UCD](./Diagrams/UseCase.jpg)
